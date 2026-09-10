@@ -76,7 +76,8 @@ input[type="number"]::-webkit-outer-spin-button {
 .output-h {
     color : #5A537B;
     font-weight: bold;
-    font-size: 20px;
+    margin-top : 5px;
+    font-size: 25px;
 }
 .response-style {
     color : #353535;
